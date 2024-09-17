@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+.unique{
+    height: 200px;
+    width: 40%;
+    border: solid;
+    float: left;
+}
+
+.smaller{
+    height: 150px;
+    width: 15%;
+    border:solid;
+    float: left;
+
+}
+
+.smallerS {
+    height: 150px;
+    width: 15%;
+    border:solid;
+    float: left;
+
+}
+
+
+ .same{
+    height: 190px;
+    width: 33.333%;
+    border:solid;
+    float: left;
+}
